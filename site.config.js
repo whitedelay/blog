@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Jiyeon Baek',
-  domain: 'whitedelay.github.io',
+  domain: 'whitedelay.vercel.app',
   author: 'Jiyeon Baek',
 
   // open graph metadata (optional)
