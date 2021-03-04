@@ -1,0 +1,51 @@
+.index-page {
+  padding-top: 0;
+}
+
+.index-page .notion-page-icon-wrapper {
+  display: none;
+}
+
+.index-page .notion-title {
+  display: none;
+}
+
+.index-page .notion-callout {
+  border-radius: 0.75rem;
+  transition: all .2s ease-in-out;
+  overflow: visible !important;
+  width: auto;
+  margin: 5px;
+}
+
+.index-page .notion-callout:hover {
+  transform: scale(1.01);
+}
+
+.index-page.notion-page-has-cover {
+  padding-top: 0;
+}
+
+.index-page .notion-page-title-icon {
+    display: none;
+}
+
+.index-page .notion-page-icon-wrapper {
+    display: none;
+}
+
+/* dark mode */
+.styles_settings__1ed8a {
+    position: fixed;
+    bottom: 3px;
+    right: 5px;
+}
+
+.notion-gallery-grid:hover {
+    transition: all .2s ease-in-out;
+    overflow: visible !important;
+}
+
+.notion-page-icon-wrapper {
+    display: block;
+}
