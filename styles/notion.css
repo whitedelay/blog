@@ -89,9 +89,9 @@
   filter: none;
 }
 
-.notion-collection-card:hover .notion-collection-card-cover {
+/* .notion-collection-card:hover .notion-collection-card-cover {
   filter: brightness(120%);
-}
+} */
 
 
 /* only target safari */
@@ -200,11 +200,11 @@
 .notion-link {
   position: relative;
   transition: unset;
-  opacity: 1;
+  opacity: 0.7;
 }
 
 .notion-link:hover {
-  font-weight: bolder;
+  opacity: 1;
 }
 
 .notion-red_background,
@@ -329,5 +329,5 @@
 }
 
 .notion-bookmark:hover {
-  font-weight: bolder;
+  text-decoration: underline;
 }
