@@ -7,7 +7,7 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Jiyeon Baek',
+  name: 'from scratch',
   domain: 'whitedelay.vercel.app',
   author: 'Jiyeon Baek',
 
